@@ -1,6 +1,6 @@
 # PowerShell Saturday NC 2024
 
-Presentation Notes and Sample Scripts
+To import the demo certificate, you will need to use 'P@ssword1'
 
 ![alt text](data/images/Slide-Intro.png)
 
