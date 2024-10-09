@@ -1,0 +1,37 @@
+Investments
+
+1. **Stocks**:
+   - Account Number: [Your Account Number]
+   - Brokerage Firm: [Brokerage Firm Name]
+   - Portfolio Details: [List of Stocks, Number of Shares, Purchase Dates, Purchase Prices]
+
+2. **Bonds**:
+   - Account Number: [Your Account Number]
+   - Brokerage Firm: [Brokerage Firm Name]
+   - Bond Details: [List of Bonds, Face Values, Maturity Dates, Interest Rates]
+
+3. **Mutual Funds**:
+   - Account Number: [Your Account Number]
+   - Brokerage Firm: [Brokerage Firm Name]
+   - Fund Details: [List of Mutual Funds, Number of Units, Purchase Dates, Purchase Prices]
+
+4. **Retirement Accounts**:
+   - Account Number: [Your Account Number]
+   - Provider: [Retirement Account Provider]
+   - Account Type: [e.g., 401(k), IRA]
+   - Balance: [Current Balance]
+   - Investment Details: [List of Investments within the Account]
+
+5. **Real Estate**:
+   - Property Address: [Property Address]
+   - Purchase Date: [Purchase Date]
+   - Purchase Price: [Purchase Price]
+   - Current Value: [Current Estimated Value]
+
+6. **Other Investments**:
+   - Investment Type: [Type of Investment]
+   - Account Number: [Your Account Number]
+   - Provider: [Investment Provider]
+   - Investment Details: [Details of the Investment]
+
+Please ensure this information is kept up to date and stored securely.

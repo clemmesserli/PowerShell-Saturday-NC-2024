@@ -1,0 +1,24 @@
+Bank Accounts
+
+1. **Checking Account 1**:
+   - Bank Name: Bank of America
+   - Account Number: 1234567890
+   - Routing Number: 111000025
+   - Account Holder: John Doe
+   - Balance: $5,000.00
+
+2. **Checking Account 2**:
+   - Bank Name: Wells Fargo
+   - Account Number: 0987654321
+   - Routing Number: 121000248
+   - Account Holder: John Doe
+   - Balance: $3,500.00
+
+3. **Savings Account**:
+   - Bank Name: Chase Bank
+   - Account Number: 1122334455
+   - Routing Number: 021000021
+   - Account Holder: John Doe
+   - Balance: $10,000.00
+
+Please ensure this information is kept up to date and stored securely.
