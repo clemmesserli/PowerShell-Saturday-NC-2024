@@ -1,0 +1,40 @@
+Social Media Accounts
+
+1. **Facebook**:
+   - Username: [Your Username]
+   - Email: [Your Email]
+   - Password: [Your Password]
+   - Instructions: [e.g., Deactivate account, Memorialize account]
+
+2. **Twitter**:
+   - Username: [Your Username]
+   - Email: [Your Email]
+   - Password: [Your Password]
+   - Instructions: [e.g., Deactivate account, Post a final message]
+
+3. **Instagram**:
+   - Username: [Your Username]
+   - Email: [Your Email]
+   - Password: [Your Password]
+   - Instructions: [e.g., Deactivate account, Memorialize account]
+
+4. **LinkedIn**:
+   - Username: [Your Username]
+   - Email: [Your Email]
+   - Password: [Your Password]
+   - Instructions: [e.g., Deactivate account, Update status]
+
+5. **Email Accounts**:
+   - Email Provider: [e.g., Gmail, Yahoo]
+   - Email Address: [Your Email]
+   - Password: [Your Password]
+   - Instructions: [e.g., Set up auto-response, Close account]
+
+6. **Other Accounts**:
+   - Platform: [e.g., Reddit, Pinterest]
+   - Username: [Your Username]
+   - Email: [Your Email]
+   - Password: [Your Password]
+   - Instructions: [e.g., Deactivate account, Post a final message]
+
+Please ensure this information is kept secure and shared only with trusted individuals.
